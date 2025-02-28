@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/kali/Downloads/code_1.97.2-1739406807_amd64.deb" added="2025-02-24T05:33:30.706090Z" modified="2025-02-24T05:33:30.706096Z" visited="2025-02-24T05:33:30.706091Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/vnd.debian.binary-package"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2025-02-24T05:33:30.706093Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/kali/Documents/htb/keeper/passcodes.kdbx" added="2025-02-24T07:18:43.028686Z" modified="2025-02-24T07:18:43.028692Z" visited="2025-02-24T07:18:43.028687Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-keepass2"/>
+        <bookmark:applications>
+          <bookmark:application name="keepassxc" exec="&apos;keepassxc %u&apos;" modified="2025-02-24T07:18:43.028689Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/blue/candy-icons-master.zip" added="2025-02-25T00:15:50.265026Z" modified="2025-02-25T00:15:50.649211Z" visited="2025-02-25T00:15:50.265027Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2025-02-25T00:15:50.649208Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/blue/Documents/htb/pilgrimage/shell.php" added="2025-02-25T01:22:11.781456Z" modified="2025-02-25T01:22:11.781689Z" visited="2025-02-25T01:22:11.781458Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-php"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2025-02-25T01:22:11.781460Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/blue/Documents/htb/pilgrimage/CVE-2022-44268/image.png" added="2025-02-25T01:58:02.291334Z" modified="2025-02-25T02:29:53.345539Z" visited="2025-02-25T01:58:02.291335Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2025-02-25T02:29:53.345536Z" count="6"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/blue/Documents/htb/pilgrimage" added="2025-02-25T02:05:12.089711Z" modified="2025-02-25T02:05:12.089714Z" visited="2025-02-25T02:05:12.089712Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="code" exec="&apos;code %u&apos;" modified="2025-02-25T02:05:12.089713Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/blue/Documents/tryhackme/lazyadmin/mysql_bakup_20191129023059-1.5.1.sql" added="2025-02-25T03:55:25.318190Z" modified="2025-02-25T04:11:52.166427Z" visited="2025-02-25T03:55:25.318191Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/sql"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2025-02-25T04:11:52.166423Z" count="6"/>
+          <bookmark:application name="sqlitebrowser" exec="&apos;sqlitebrowser %u&apos;" modified="2025-02-25T03:56:26.777224Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/blue/Documents/tryhackme/lazyadmin/cache.db" added="2025-02-25T04:15:58.458193Z" modified="2025-02-25T04:16:18.622768Z" visited="2025-02-25T04:15:58.458194Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2025-02-25T04:16:18.622764Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/blue/Documents/tryhackme/lazyadmin/mysql_bakup_again.sql" added="2025-02-25T04:22:35.619824Z" modified="2025-02-25T04:27:40.029774Z" visited="2025-02-25T04:22:35.619825Z">
+    <desc>Language: ; Encoding: UTF-8; Cursor: 78:337;</desc>
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/plain"/>
+        <bookmark:groups>
+          <bookmark:group>Mousepad</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2025-02-25T04:22:35.950373Z" count="2"/>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-02-25T04:23:06.075441Z" count="1"/>
+          <bookmark:application name="Mousepad" exec="&apos;mousepad %u&apos;" modified="2025-02-25T04:27:40.029770Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/blue/Documents/tryhackme/lazyadmin/shell.php" added="2025-02-25T04:45:41.893325Z" modified="2025-02-25T05:00:45.102782Z" visited="2025-02-25T04:45:41.893326Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-php"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2025-02-25T05:00:45.102778Z" count="5"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/blue/Documents/tryhackme/lazyadmin/shell2.php" added="2025-02-25T04:53:58.234497Z" modified="2025-02-25T04:53:58.234501Z" visited="2025-02-25T04:53:58.234498Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-php"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2025-02-25T04:53:58.234499Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///media/blue/VBox_GAs_7.1.6/VBoxWindowsAdditions-x86.exe" added="2025-02-26T02:13:08.275989Z" modified="2025-02-26T02:13:14.746028Z" visited="2025-02-26T02:13:08.275990Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-msdownload"/>
+        <bookmark:applications>
+          <bookmark:application name="Thunar" exec="&apos;thunar %u&apos;" modified="2025-02-26T02:13:14.746026Z" count="3"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/blue/Documents/tryhackme/mr-robot-ctf/malicious.zip" added="2025-02-27T05:16:54.813588Z" modified="2025-02-27T05:16:54.813594Z" visited="2025-02-27T05:16:54.813590Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2025-02-27T05:16:54.813592Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/blue/shell.php.gif" added="2025-02-28T03:48:26.721816Z" modified="2025-02-28T03:48:26.721856Z" visited="2025-02-28T03:48:26.721817Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/gif"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2025-02-28T03:48:26.721853Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/blue/shell.php%2500.gif" added="2025-02-28T03:49:51.865006Z" modified="2025-02-28T03:49:51.865010Z" visited="2025-02-28T03:49:51.865007Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/gif"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2025-02-28T03:49:51.865008Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/blue/shell.php" added="2025-02-28T03:54:27.693996Z" modified="2025-02-28T03:54:27.694000Z" visited="2025-02-28T03:54:27.693997Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-php"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2025-02-28T03:54:27.693998Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/blue/shell.gif.php" added="2025-02-28T03:56:00.526610Z" modified="2025-02-28T03:56:00.526614Z" visited="2025-02-28T03:56:00.526610Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-php"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2025-02-28T03:56:00.526612Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/blue/Documents/tryhackme/lazyadmin/phpmyadmin.mo" added="2025-02-28T05:53:41.070771Z" modified="2025-02-28T05:53:41.461669Z" visited="2025-02-28T05:53:41.070772Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/x-gettext-translation"/>
+        <bookmark:applications>
+          <bookmark:application name="Firefox" exec="&apos;firefox-esr %u&apos;" modified="2025-02-28T05:53:41.461664Z" count="2"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

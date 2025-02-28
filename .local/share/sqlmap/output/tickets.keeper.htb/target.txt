@@ -1,0 +1,3 @@
+http://tickets.keeper.htb:80/rt/Approvals (POST)  # /usr/bin/sqlmap -r /home/kali/Documents/htb/keeper/sqli
+
+ShowPending=*&ShowResolved=1&ShowRejected=1&ShowDependent=1&CreatedBefore=&CreatedAfter=

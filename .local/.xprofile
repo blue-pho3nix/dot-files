@@ -1,0 +1,4 @@
+#!/bin/sh
+picom --config ~/.config/picom.conf &
+feh --no-fehbg --bg-fill ~/.local/share/wallpaper/purple-flowers
+~/.local/bin/.dwm-status.sh &
